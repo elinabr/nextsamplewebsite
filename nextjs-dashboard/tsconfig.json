@@ -31,4 +31,7 @@
     "scripts/seed.js"
   ],
   "exclude": ["node_modules"]
+
+
 }
+ 
